@@ -25,6 +25,7 @@ feeds/private*.opml
 
 # Optional private/generated digests
 data/email-digest.json
+data/archive.json
 
 # Node
 node_modules/
