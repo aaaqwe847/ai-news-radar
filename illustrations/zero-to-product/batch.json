@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "01-claude-chat",
+      "promptFiles": ["prompts/01-scene-claude-code-chat.md"],
+      "image": "01-scene-claude-code-chat.png",
+      "provider": "seedream",
+      "ar": "16:9",
+      "quality": "2k"
+    },
+    {
+      "id": "02-ai-filter",
+      "promptFiles": ["prompts/02-comparison-ai-filter.md"],
+      "image": "02-comparison-ai-filter.png",
+      "provider": "seedream",
+      "ar": "16:9",
+      "quality": "2k"
+    },
+    {
+      "id": "03-radar-interface",
+      "promptFiles": ["prompts/03-scene-radar-interface.md"],
+      "image": "03-scene-radar-interface.png",
+      "provider": "seedream",
+      "ar": "16:9",
+      "quality": "2k"
+    }
+  ]
+}
