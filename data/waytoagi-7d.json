@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T16:59:23.352435Z",
+  "generated_at": "2026-07-09T18:52:10.436298Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-09",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-07-09",
@@ -14,7 +14,17 @@
     },
     {
       "date": "2026-07-09",
+      "title": "作者最近又在GitHub翻到几个挺有意思的AI项目，汇总到了这篇文章里。每个项目都简单介绍了一下它是干嘛的、适合谁、值得看的一点。感兴趣的小伙伴可以先收藏，后面真用到的时候再慢慢折腾。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
       "title": "WaytoAGI 社区成立三年多，这中间我们见过非常多的AI创业者，也有很多惊艳的产品。很多产品达到一定阶段，最头疼的问题其实是「增长」。AI 产品要走向全球，需要一套从「品牌定位」到「市场触达」的 GTM 增长系统。WaytoAGI 孵化的新项目：WaytoGrowth，专门服务 AI 品牌和有出海需求的创新公司，让产品更容易被发现、更值得信任，并持续获得全球需求。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Seedream5.0 Pro 发布了，作者用60多组提示词拿它跟目前最强的gpt image 2图像模型进行了对比，看看在相同的提示词下，会有什么不同的效果。都是高频常见场景，包括课程海报、公众号封面、课程卡片、电商详情页、人物海报、角色设定、国风文化海报。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -28,7 +38,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-07-09",
@@ -37,7 +47,17 @@
     },
     {
       "date": "2026-07-09",
+      "title": "作者最近又在GitHub翻到几个挺有意思的AI项目，汇总到了这篇文章里。每个项目都简单介绍了一下它是干嘛的、适合谁、值得看的一点。感兴趣的小伙伴可以先收藏，后面真用到的时候再慢慢折腾。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
       "title": "WaytoAGI 社区成立三年多，这中间我们见过非常多的AI创业者，也有很多惊艳的产品。很多产品达到一定阶段，最头疼的问题其实是「增长」。AI 产品要走向全球，需要一套从「品牌定位」到「市场触达」的 GTM 增长系统。WaytoAGI 孵化的新项目：WaytoGrowth，专门服务 AI 品牌和有出海需求的创新公司，让产品更容易被发现、更值得信任，并持续获得全球需求。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Seedream5.0 Pro 发布了，作者用60多组提示词拿它跟目前最强的gpt image 2图像模型进行了对比，看看在相同的提示词下，会有什么不同的效果。都是高频常见场景，包括课程海报、公众号封面、课程卡片、电商详情页、人物海报、角色设定、国风文化海报。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
