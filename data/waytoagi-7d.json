@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-10-18T16:02:08.062850Z",
+  "generated_at": "2026-10-18T18:44:35.638998Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-10-17",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-10-17",
+      "title": "如果你也想靠AI搭建个性化的个人网站，却总做出千篇一律的成品，这篇文章或许会帮到你。先用飞书文档统一管理网站素材，再整理八大类六十多个高质量网页资源。从UI组件、动效3D、页面灵感、配色图标，到AI建站工具、设计提示词一应俱全，附带详细复用技巧，可直接提取代码与提示词，快速打造风格独特的个人站点。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-10-17",
       "title": "DeepSeek-V4.1-Flash重磅更新，在模型单价不变的前提下大幅强化代码与工具能力，能一键生成赛车、故宫3D场景、Godot游戏交互原型。软件工程、终端任务评测指标也明显上涨，同时还新增了Search与Fetch联网抓取接口，可以低成本实现资料检索。一起看看效果如何！",
@@ -23,8 +28,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 27,
+  "count_7d": 28,
   "updates_7d": [
+    {
+      "date": "2026-10-17",
+      "title": "如果你也想靠AI搭建个性化的个人网站，却总做出千篇一律的成品，这篇文章或许会帮到你。先用飞书文档统一管理网站素材，再整理八大类六十多个高质量网页资源。从UI组件、动效3D、页面灵感、配色图标，到AI建站工具、设计提示词一应俱全，附带详细复用技巧，可直接提取代码与提示词，快速打造风格独特的个人站点。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-10-17",
       "title": "DeepSeek-V4.1-Flash重磅更新，在模型单价不变的前提下大幅强化代码与工具能力，能一键生成赛车、故宫3D场景、Godot游戏交互原型。软件工程、终端任务评测指标也明显上涨，同时还新增了Search与Fetch联网抓取接口，可以低成本实现资料检索。一起看看效果如何！",
